@@ -1,0 +1,21 @@
+{
+  "name": "urn-development-pack",
+  "module": "index.ts",
+  "type": "module",
+  "version": "100.0.10",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "latest"
+  },
+  "dependencies": {
+    "@elysiajs/bearer": "latest",
+    "@elysiajs/cors": "latest",
+    "@elysiajs/jwt": "latest",
+    "@elysiajs/swagger": "latest",
+    "databridge-pack": "latest",
+    "elysia": "latest",
+    "logestic": "latest"
+  }
+}
