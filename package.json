@@ -2,7 +2,7 @@
   "name": "urn-development-pack",
   "module": "index.ts",
   "type": "module",
-  "version": "100.0.10",
+  "version": "100.0.11",
   "devDependencies": {
     "@types/bun": "latest"
   },
@@ -16,6 +16,6 @@
     "@elysiajs/swagger": "latest",
     "databridge-pack": "latest",
     "elysia": "latest",
-    "logestic": "latest"
+    "urn-logger": "^1.0.0"
   }
 }
