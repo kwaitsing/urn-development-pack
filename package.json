@@ -16,6 +16,6 @@
     "@elysiajs/swagger": "latest",
     "databridge-pack": "latest",
     "elysia": "latest",
-    "urn-logger": "^1.0.0"
+    "urn-logger": "latest"
   }
 }
